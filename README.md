@@ -11,6 +11,13 @@
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+Task: Displaying Current Time on the Website
+
+To view the current time, please visit the following link:
+```.../rpc-time```
+
+This page shows the current server time in plain text. The time is updated according to the server's configured timezone.
+
 ## Screenshots Postman Tests (Cvicenie 3)
 
 Photos were taken at the request of the teacher
